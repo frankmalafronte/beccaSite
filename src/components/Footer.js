@@ -27,20 +27,8 @@ const Footer = () => (
         <div className="content has-text-centered">
           <article className="media center">
             <span className="icon">
-              <a href="https://github.com/frankmalafronte">
-                <FaGithub size="30px" color="black" />
-              </a>
-            </span>
-            &nbsp;
-            <span className="icon">
-              <a href="https://www.linkedin.com/in/frank-malafronte/">
+              <a href="https://www.linkedin.com/in/beccabrenner/">
                 <FaLinkedin size="30px" color="black" />
-              </a>
-            </span>
-            &nbsp;
-            <span className="icon">
-              <a href="https://www.instagram.com/frankmalafronte/">
-                <FaInstagram size="30px" color="black" />
               </a>
             </span>
             &nbsp;

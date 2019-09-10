@@ -15,7 +15,7 @@ class Email extends Component {
     return (
       <div className="email">
         <CopyToClipboard
-          text="frankamalafronte@gmail.com"
+          text="rmkbrenner@gmail.com"
           onCopy={() => this.setState({ copied: !this.state.copied })}
         >
           {this.state.copied ? (

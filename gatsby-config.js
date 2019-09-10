@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Frank Malafronte's Portfolio`,
-    description: `Frank Malafronte's Portfolio Website`,
+    title: `Becca Brenner's Portfolio`,
+    description: `Becca Brenner's Portfolio Website`,
     author: `Frank Malafronte <frankamalafronte@gmail.com>`,
     keywords: `Web developer, Web, Developer, Full stack, React, CSS, HTML, JS, Javascript, Gatsby, Bulma Developer, CSS3, HTML5, Node, pulse-code`,
         github: 'https://github.com/frankmalafronte',
